@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Slug Mobile: Test-Bench for RL Testing"
 collection: publications
 category: posters
 permalink: https://arxiv.org/abs/2409.10532
