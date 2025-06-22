@@ -228,6 +228,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  photos:
+    output: true
+    permalink: /:collection/:path/
   # talks:
   #   output: false
   #   permalink: /:collection/:path/
@@ -288,7 +291,15 @@ defaults:
       layout: talk
       author_profile: true
       share: false
-
+  - scope:
+      path: ""
+      type: photos
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    
 
 # Sass/SCSS
 sass:
