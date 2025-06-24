@@ -1,6 +1,6 @@
 ---
 title: "Scalable & Causally Consistent Sharded Key-Value Store"
-excerpt: "A sharded, scalable, distributed, containerized key-value store<br/><img src='/images/500x300.png'>"
+excerpt: "A sharded, scalable, distributed, containerized key-value store<br/>"
 collection: portfolio
 ---
 

@@ -22,6 +22,10 @@ main:
     
   - title: "Publications"
     url: /publications/
+  
+  - title: "Photography"
+    url: /photos/
+
     
   # - title: "CV"
   #   url: /cv-json/
