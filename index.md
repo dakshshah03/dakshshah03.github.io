@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an incoming Master's student in Computer Science at the NYU Courant Institute (starting Fall 2026), focusing on the intersection of Machine Learning, Computer Vision, and 3D reconstruction. I recently graduated from UC Santa Cruz with a double major in Computer Science and Math Theory and Computation.
+I am Master of Science student in Computer Science at the NYU Courant School, focusing on the intersection of Machine Learning, Computer Vision, and 3D reconstruction. I recently graduated from UC Santa Cruz with a double major in Computer Science and Math Theory and Computation.
 
 My research portfolio includes sparse-view CT reconstruction, multimodal distillation for 2D-to-3D generation, and active spatial capture, utilizing methodologies like Neural Radiance Fields, Neural Signed Distance Fields (SDFs), 3D Gaussian Splatting, and Vision-Language Models.
 
@@ -17,7 +17,7 @@ I previously worked as a Research Assistant in the UCSC BiomedAI Lab under PI Ra
 <!-- - **Medical Imaging:** Multi-surface reconstruction for CT/CBCT -->
 
 ## News
-
+- **[August 2026]** <u>K-NeAS: Scalable Multi-Material CT Reconstruction Using Neural SDFs</u> is accepted as an Oral Presentation at Off-Grid Workshop at MICCAI 2026.
 - **[June 2026]** My senior thesis, "K-Material SDFs for Neural Attenuation Fields," received the UCSC Chancellor's Award for Undergraduate Research, ranking it among the top three engineering projects at the university.
 - **[June 2026]** Graduated from UC Santa Cruz with a B.S. in Computer Science and a B.S. in Math Theory and Computation (GPA 3.89)!
 - **[May 2026]** Accepted to the NYU Courant Institute Master of Science in Computer Science program (Starting Fall 2026).

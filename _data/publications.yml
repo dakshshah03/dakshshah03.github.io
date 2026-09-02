@@ -20,11 +20,18 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
 
+  - title: "K-NeAS: Scalable Multi-Material CT Reconstruction Using Neural SDFs"
+    authors: Daksh Shah, Emmanouil Nikolakakis, Razvan Marinescu 
+    conference_short: Off-Grid Workshop, MICCAI 2026
+    conference: "Off-Grid: 1st Workshop on Continuous Representations and Grid-Free Methods in Medical Imaging at the International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2026."
+    pdf: https://arxiv.org/pdf/2607.14415
+    image: ./assets/img/papers/k-neas-arch.png
+    code: https://github.com/dakshshah03/K-NeAS
+
   - title: K-Material SDFs for Neural Attenuation Fields
     authors: Daksh K. Shah
     conference_short: Thesis
     conference: Bachelor's Thesis (UC Santa Cruz)
     pdf: ./assets/files/senior_thesis.pdf
-    image: ./assets/img/papers/k_neas_arch.png
-    code: https://github.com/dakshshah03/NeAS-2
+    image: ./assets/img/papers/k-sdf-arch.png
     notes: Advised by Dr. Razvan Marinescu and Manolis Nikolakakis
