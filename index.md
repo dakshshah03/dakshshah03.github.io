@@ -10,10 +10,12 @@ My research portfolio includes sparse-view CT reconstruction, multimodal distill
 
 I previously worked as a Research Assistant in the UCSC BiomedAI Lab under PI Razvan Marinescu, and in the UCSC VIS Lab under PI James Davis. I also served as a Teaching Assistant and Tutor at the Baskin School of Engineering for 10 terms, supporting over 3000 students across courses including Graduate Statistical ML, Computer Vision, and Deep Learning.
 
+Check out my [alphaXiv](https://www.alphaxiv.org/@daksh-shah) page!
+
 ## Research Interests
 
 - **3D Computer Vision:** Neural SDFs, NeRFs, 3D Gaussian Splatting, Sparse-view Reconstruction, Simulation Reconstruction
-- **Machine Learning & Graphics:** Physics-Grounded Generative Models, Distillation, Differentiable Rendering, Embodied AI
+- **Machine Learning & Graphics:** Physics-Grounded Generative Models, Neural Rendering, Embodied AI, AR/XR
 <!-- - **Medical Imaging:** Multi-surface reconstruction for CT/CBCT -->
 
 ## News
